@@ -1,7 +1,4 @@
 # krozek
 repozitorij za krozek
 
-jež
-aaaa
-
-krneki
+tukaj bom shranjeval datoteke za krožek
